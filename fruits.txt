@@ -4,3 +4,4 @@ This is a fruit list
 3. orange
 4. mango
 5. strawberry
+6. durian
